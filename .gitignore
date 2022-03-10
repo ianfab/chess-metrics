@@ -1,0 +1,4 @@
+*.pyc
+
+lczero/*.so
+*.pb.gz
